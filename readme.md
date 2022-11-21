@@ -24,6 +24,6 @@ The metric formulation is....
 ## The Long Document Models comparision
 
 <p align="center">
-  <img src="./figures/models_comparisons.png" title="Long document summarizaiton models comparison" alt="">
+  <img src="./figure/image.png" title="Long document summarizaiton models comparison" alt="">
 </p>
 
