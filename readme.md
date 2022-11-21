@@ -17,13 +17,20 @@ Finally, thanks to *Carburacy*, we found optimal combinations of hyperparameters
 
 The metric formulation is....
 <p align="center">
-  <img src="./figures/metric_1.png" title="nlg-metricverse" alt="">
-   <img src="./figures/metric_2.png" title="nlg-metricverse" alt="">
+  <img src="./figure/carb_graph1.png" title="nlg-metricverse" alt="">
 </p>
 
 ## The Long Document Models comparision
 
 <p align="center">
-  <img src="./figure/image.png" title="Long document summarizaiton models comparison" alt="">
+  <img src="./figure/LDSM_graph1.png" title="Long document summarizaiton models comparison" alt="">
 </p>
+
+Comparision of several models on Arxiv dataset
+
+<p align="center">
+  <img src="./figure/LDSM_graph2.png" title="Long document summarizaiton models comparison" alt="">
+</p>
+
+Comparision of
 
