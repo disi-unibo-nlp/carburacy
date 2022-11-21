@@ -23,7 +23,7 @@ The metric formulation is....
 ## The Long Document Models comparision
 
 <p align="center">
-  <img src="./figure/LDSM_graph1.png" title="Long document summarizaiton models comparison" alt="">
+  <img src="./figure/LDSC_graph1.png" title="Long document summarizaiton models comparison" alt="">
 </p>
 
 Comparision of several models on Arxiv dataset
@@ -33,4 +33,12 @@ Comparision of several models on Arxiv dataset
 </p>
 
 Comparision of
+
+## How to use
+
+```
+from carburacy import Carburacy
+carb = Carburacy(performance_score, carbon_footprint, performance_metric='rouge')
+print(f'The Carburacy of your model is {carb}')
+```
 
