@@ -15,7 +15,6 @@ Finally, thanks to *Carburacy*, we found optimal combinations of hyperparameters
 
 ## The metric Carburacy 
 
-The metric formulation is....
 <p align="center">
   <img src="./figure/carb_graph1.png" title="nlg-metricverse" alt="">
 </p>
@@ -26,7 +25,6 @@ The metric formulation is....
   <img src="./figure/LDSC_graph1.png" title="Long document summarizaiton models comparison" alt="">
 </p>
 
-Comparision of several models on Arxiv dataset
 
 <p align="center">
   <img src="./figure/LDSM_graph2.png" title="Long document summarizaiton models comparison" alt="">
