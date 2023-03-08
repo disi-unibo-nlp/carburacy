@@ -32,7 +32,7 @@ Comparision of several models on Arxiv dataset
   <img src="./figure/LDSM_graph2.png" title="Long document summarizaiton models comparison" alt="">
 </p>
 
-Comparision of
+Comparision of several SOTA summarization models using carburacy to asses their tradeoff between performances and costs.
 
 ## How to use
 
@@ -41,4 +41,6 @@ from carburacy import Carburacy
 carb = Carburacy(performance_score, carbon_footprint, performance_metric='rouge')
 print(f'The Carburacy of your model is {carb}')
 ```
+
+**the code will be available soon**
 
