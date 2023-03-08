@@ -35,10 +35,7 @@ Comparision of several SOTA summarization models using carburacy to asses their 
 ## How to use
 
 ```
-from carburacy import Carburacy
-carb = Carburacy(performance_score, carbon_footprint, performance_metric='rouge')
-print(f'The Carburacy of your model is {carb}')
+python carburacy.py --score R --emission_train Ctrain --emission_test Ctest
 ```
 
-**the code will be available soon**
 
